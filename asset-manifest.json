@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7f2ddd5.css",
-    "main.js": "/static/js/main.250913bb.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo-pronta.png": "/static/media/logo-pronta.8b73379ab771665e555c.png",
-    "static/media/icon-GITHUB.png": "/static/media/icon-GITHUB.0dece37a27d19c014e40.png",
-    "static/media/icon-LINKEDIN.png": "/static/media/icon-LINKEDIN.9c8f1bb6509aa91a8e81.png",
-    "index.html": "/index.html",
-    "main.a7f2ddd5.css.map": "/static/css/main.a7f2ddd5.css.map",
-    "main.250913bb.js.map": "/static/js/main.250913bb.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/Meu-Portfolio/static/css/main.a7f2ddd5.css",
+    "main.js": "/Meu-Portfolio/static/js/main.187cfcf8.js",
+    "static/js/787.128fc6e9.chunk.js": "/Meu-Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/logo-pronta.png": "/Meu-Portfolio/static/media/logo-pronta.8b73379ab771665e555c.png",
+    "static/media/icon-GITHUB.png": "/Meu-Portfolio/static/media/icon-GITHUB.0dece37a27d19c014e40.png",
+    "static/media/icon-LINKEDIN.png": "/Meu-Portfolio/static/media/icon-LINKEDIN.9c8f1bb6509aa91a8e81.png",
+    "index.html": "/Meu-Portfolio/index.html",
+    "main.a7f2ddd5.css.map": "/Meu-Portfolio/static/css/main.a7f2ddd5.css.map",
+    "main.187cfcf8.js.map": "/Meu-Portfolio/static/js/main.187cfcf8.js.map",
+    "787.128fc6e9.chunk.js.map": "/Meu-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7f2ddd5.css",
-    "static/js/main.250913bb.js"
+    "static/js/main.187cfcf8.js"
   ]
 }
