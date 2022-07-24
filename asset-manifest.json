@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/Meu-Portfolio/static/css/main.ca333370.css",
-    "main.js": "/Meu-Portfolio/static/js/main.d9db8311.js",
+    "main.css": "/Meu-Portfolio/static/css/main.4e0ff435.css",
+    "main.js": "/Meu-Portfolio/static/js/main.912d11af.js",
     "static/js/787.128fc6e9.chunk.js": "/Meu-Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/Trybewarts - Responsivo.gif": "/Meu-Portfolio/static/media/Trybewarts - Responsivo.3d5990191b3b0649ad19.gif",
     "static/media/cartoon.png": "/Meu-Portfolio/static/media/cartoon.3408d4b182884443c375.png",
     "static/media/logo-pronta.png": "/Meu-Portfolio/static/media/logo-pronta.8b73379ab771665e555c.png",
     "static/media/icon-JAVASCRIPT.png": "/Meu-Portfolio/static/media/icon-JAVASCRIPT.a477bdd4d33359d675e3.png",
     "static/media/icon-HTML.png": "/Meu-Portfolio/static/media/icon-HTML.c145e354e140aa3b7bce.png",
     "static/media/icon-CSS.png": "/Meu-Portfolio/static/media/icon-CSS.9331644d6d129b102a33.png",
+    "static/media/projeto-vazio.png": "/Meu-Portfolio/static/media/projeto-vazio.f0336b80ed7d68615e1a.png",
     "static/media/icon-REACT.png": "/Meu-Portfolio/static/media/icon-REACT.44319306359c7112276d.png",
     "static/media/icon-GITHUB.png": "/Meu-Portfolio/static/media/icon-GITHUB.0dece37a27d19c014e40.png",
     "static/media/icon-LINKEDIN.png": "/Meu-Portfolio/static/media/icon-LINKEDIN.9c8f1bb6509aa91a8e81.png",
     "index.html": "/Meu-Portfolio/index.html",
-    "main.ca333370.css.map": "/Meu-Portfolio/static/css/main.ca333370.css.map",
-    "main.d9db8311.js.map": "/Meu-Portfolio/static/js/main.d9db8311.js.map",
+    "main.4e0ff435.css.map": "/Meu-Portfolio/static/css/main.4e0ff435.css.map",
+    "main.912d11af.js.map": "/Meu-Portfolio/static/js/main.912d11af.js.map",
     "787.128fc6e9.chunk.js.map": "/Meu-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca333370.css",
-    "static/js/main.d9db8311.js"
+    "static/css/main.4e0ff435.css",
+    "static/js/main.912d11af.js"
   ]
 }
