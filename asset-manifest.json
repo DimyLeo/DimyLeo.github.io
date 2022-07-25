@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Meu-Portfolio/static/css/main.d399a04e.css",
-    "main.js": "/Meu-Portfolio/static/js/main.3a207f42.js",
+    "main.css": "/Meu-Portfolio/static/css/main.5904609e.css",
+    "main.js": "/Meu-Portfolio/static/js/main.9b4b728e.js",
     "static/js/787.128fc6e9.chunk.js": "/Meu-Portfolio/static/js/787.128fc6e9.chunk.js",
-    "static/media/Trybewarts - Responsivo.gif": "/Meu-Portfolio/static/media/Trybewarts - Responsivo.3d5990191b3b0649ad19.gif",
-    "static/media/Tryunfo-gif.gif": "/Meu-Portfolio/static/media/Tryunfo-gif.43418d8a8dd7521c1e02.gif",
+    "static/media/TrybeWarts.jpg": "/Meu-Portfolio/static/media/TrybeWarts.8576f1d9762bd89b736e.jpg",
+    "static/media/Tryunfo.jpg": "/Meu-Portfolio/static/media/Tryunfo.fd70575f1b870e0ce4bb.jpg",
     "static/media/cartoon.png": "/Meu-Portfolio/static/media/cartoon.3408d4b182884443c375.png",
     "static/media/icon-JAVASCRIPT.png": "/Meu-Portfolio/static/media/icon-JAVASCRIPT.a477bdd4d33359d675e3.png",
     "static/media/icon-HTML.png": "/Meu-Portfolio/static/media/icon-HTML.c145e354e140aa3b7bce.png",
@@ -14,12 +14,12 @@
     "static/media/icon-GITHUB.png": "/Meu-Portfolio/static/media/icon-GITHUB.0dece37a27d19c014e40.png",
     "static/media/icon-LINKEDIN.png": "/Meu-Portfolio/static/media/icon-LINKEDIN.9c8f1bb6509aa91a8e81.png",
     "index.html": "/Meu-Portfolio/index.html",
-    "main.d399a04e.css.map": "/Meu-Portfolio/static/css/main.d399a04e.css.map",
-    "main.3a207f42.js.map": "/Meu-Portfolio/static/js/main.3a207f42.js.map",
+    "main.5904609e.css.map": "/Meu-Portfolio/static/css/main.5904609e.css.map",
+    "main.9b4b728e.js.map": "/Meu-Portfolio/static/js/main.9b4b728e.js.map",
     "787.128fc6e9.chunk.js.map": "/Meu-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d399a04e.css",
-    "static/js/main.3a207f42.js"
+    "static/css/main.5904609e.css",
+    "static/js/main.9b4b728e.js"
   ]
 }
